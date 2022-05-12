@@ -1,0 +1,4 @@
+MOV $s0 $100
+MOV $s1 $104
+ADD $s2 $s1 $s0
+DISP $s2
